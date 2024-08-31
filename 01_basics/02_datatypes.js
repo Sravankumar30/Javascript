@@ -2,11 +2,11 @@
 
 // alert( 3 + 3) // doesnot work as we are using nodejs, not the browser
 
-console.log(3 
-    +
-     3) // code readability should be high(code easy to read)
+// console.log(3 
+//     +
+//      3) // code readability should be high(code easy to read)
 
-console.log("Hitesh")
+// console.log("Hitesh")
 
 
 let name = "hitesh"
@@ -27,5 +27,9 @@ let state;
 
 // object
 
-console.log(typeof undefined); // undefined
-console.log(typeof null); // object
+// console.log(typeof undefined); // undefined
+// console.log(typeof null); // object
+
+
+// reference
+// https://www.youtube.com/watch?v=-9knnv97wSc&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&index=5

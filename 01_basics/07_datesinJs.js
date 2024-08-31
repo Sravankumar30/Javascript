@@ -29,3 +29,7 @@ newDate.toLocaleString('default', {
     weekday: "long",
     
 })
+
+
+// reference
+// https://www.youtube.com/watch?v=tGLCuoumaGY&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&index=13

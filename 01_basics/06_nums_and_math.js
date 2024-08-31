@@ -32,3 +32,8 @@ console.log(Math.floor(Math.random()*10) + 1);// using Math.floor will display t
 // const max = 20
 
 // console.log(Math.floor(Math.random() * (max - min + 1)) + min)// same like above one here insted of 10 we are taking max-min and adding +1 just incase the output should not be 0 and we are adding min value so that output be mor than min value.
+
+
+
+// reference
+// https://www.youtube.com/watch?v=_KqpeDc47Ro&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&index=12

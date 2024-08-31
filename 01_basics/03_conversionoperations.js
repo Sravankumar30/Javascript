@@ -68,3 +68,8 @@ gameCounter++;// output=101
 
 // link to study
 // https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
+
+
+// reference
+// https://www.youtube.com/watch?v=X7hDBhd_L5U&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&index=6
+// https://www.youtube.com/watch?v=N9el4APFtAo&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&index=7
