@@ -4,6 +4,8 @@ const coding = ["js", "ruby", "java", "python", "cpp"]
 //     console.log(val);
 // } )
 
+// callback syntax is ( () => {} )
+
 // coding.forEach( (item) => { ,//arrow function declaration but because it is a callback we don't name it and this function is in array so be take a value inside()
 //     console.log(item);
 // } )
