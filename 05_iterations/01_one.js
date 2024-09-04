@@ -47,3 +47,7 @@ for (let index = 0; index < myArray.length; index++) {  // here array.length is 
 //    console.log(`Value of i is ${index}`);
     
 // }
+
+
+//reference
+// https://www.youtube.com/watch?v=Y1cpFsXrEgY&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&index=27
